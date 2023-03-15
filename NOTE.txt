@@ -1,0 +1,15 @@
+<230308>
+
+docker, docker container - image?
+
+dockerhub : https://hub.docker.com/
+
+fastapi : https://fastapi.tiangolo.com/deployment/docker/
+
+localhost:9004
+
+
+
+
+docker, docker-compose, fastapi 3가지
+
